@@ -1,0 +1,11 @@
+.form-container{
+    width: 40%;
+    margin-left: 30%;
+}
+
+.formText{
+    text-decoration: underline;
+    color: rgb(230, 21, 125);
+    font-weight: 800;
+    cursor: pointer;
+}
